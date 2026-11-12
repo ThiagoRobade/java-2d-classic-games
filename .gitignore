@@ -1,0 +1,24 @@
+# Arquivos compilados Java
+*.class
+*.jar
+*.war
+*.ear
+out/
+bin/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse / NetBeans (caso abra em outra IDE)
+.classpath
+.project
+.settings/
+nbproject/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
